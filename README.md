@@ -1,25 +1,73 @@
-Thanks for downloading this theme!
+# 🖥️ Jay Shree Shyam Computer Institute
 
-## Other Useful Links
+Welcome to the repository of **Jay Shree Shyam Computer Institute** – a recognized computer training institute dedicated to empowering students with modern digital skills.  
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+🌐 Website: [jsscomputer.in](https://jsscomputer.in)
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+---
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+## 📂 Project Pages & Description
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+### 1. `index.html` – Home
+- Landing page of the website.  
+- Highlights the institute’s vision, digital education mission, and quick links to key sections.  
+- Provides a first impression with institute branding and introduction.  
 
-Alternatively, here's our top most trending and selling items:
+---
 
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+### 2. `about.html` – About Us
+- Complete background of **JSS Computer Institute**.  
+- Includes registration details under the Ministry of Corporate Affairs.  
+- Explains mission: *to deliver quality and affordable digital education*.  
+- Information about student achievements and institute milestones.  
 
+---
 
+### 3. `courses.html` – Courses
+- Detailed list of training programs offered.  
+- Covers topics such as:  
+  - Basic Computer Fundamentals  
+  - Digital Literacy & Internet Skills  
+  - Office Automation Tools  
+  - Advanced Certification Courses  
+- Includes duration, eligibility, and certification details.  
+
+---
+
+### 4. `labs.html` – Labs & Facilities
+- Showcases infrastructure and smart lab setup.  
+- Details about:  
+  - Computer labs with updated systems  
+  - Practical training environment  
+  - Student-friendly digital classrooms  
+- Demonstrates why JSS offers a better learning environment.  
+
+---
+
+### 5. `gallery.html` – Gallery
+- Visual showcase of institute’s events, labs, and classrooms.  
+- Adds authenticity and engages prospective students.  
+- Can be updated regularly with new batches/events.  
+
+---
+
+### 6. `contact.html` – Contact Us
+- All essential communication details:  
+  - 📍 Tiwari Tower, jai shree shyam computer institute, Kotputli, Rajasthan 303108  
+  - 📱 +91 97851 56533  
+- Contact form for student inquiries.  
+
+---
+
+### 7. `assets/` – Supporting Files
+- **CSS**: Styling and responsive design files.  
+- **JS**: Scripts for interactivity.  
+- **Images**: Institute photos, logos, and graphics.  
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/jss-computer-institute.git
